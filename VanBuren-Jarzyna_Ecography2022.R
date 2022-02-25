@@ -3,6 +3,8 @@
 ## Collin S. VanBuren and Marta A. Jarzyna ##
 ## Ecography 2022 ##
 ## code by Collin S. VanBuren ##
+## some (but not all) data is available via GitHub and archived with Zennodo (along woth code) ##
+## All data is available via Dryad ##
 ###############################################################################################
 
 #### Read in packages ####
